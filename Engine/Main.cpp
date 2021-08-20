@@ -33,7 +33,7 @@ int WINAPI wWinMain( HINSTANCE hInst,HINSTANCE,LPWSTR pArgs,INT )
 			while( wnd.ProcessMessage() )
 			{
 				theGame.Go();
-			}//gogoogogogog
+			}//gogoogogogogasefasefasef
 		}
 		catch( const ChiliException& e )
 		{
